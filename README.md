@@ -1,1 +1,1 @@
-# scripts to practice   
+# scripts to practic
