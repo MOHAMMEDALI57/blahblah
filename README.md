@@ -1,1 +1,1 @@
-# scripts to practic
+# scripts to practice evops 
