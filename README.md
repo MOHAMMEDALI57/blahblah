@@ -1,1 +1,1 @@
-# scripts to practice devops 
+# scripts
